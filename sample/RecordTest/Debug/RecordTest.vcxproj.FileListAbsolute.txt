@@ -1,0 +1,2 @@
+G:\FMODTest\RecordTest\Debug\RecordTest.exe
+G:\FMODTest\RecordTest\Debug\RecordTest.pdb
